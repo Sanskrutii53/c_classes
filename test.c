@@ -12,5 +12,14 @@ int main()
     {
 	    printf("error");
     }
+
+
+    int y=x%10;
+    printf("unit place digit is: %d\n",y);
+
 return 0;
 }
+
+
+
+
